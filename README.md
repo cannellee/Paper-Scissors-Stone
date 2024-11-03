@@ -1,5 +1,4 @@
-# Pierre Feuille Ciseaux
-
+# Paper Scissors Stone
 ## 🇫🇷 ~ Français :<br>
 **<u>Description<br></u>**
 Un jeu classique de Pierre, Feuille, Ciseaux où un joueur peut affronter un robot ou un autre joueur. Le but du jeu est de remporter le plus de manches possible en choisissant l'une des trois options. Le jeu continue jusqu'à ce que l'un des joueurs décide de quitter en entrant 'Q'.<br>
@@ -10,7 +9,7 @@ Un jeu classique de Pierre, Feuille, Ciseaux où un joueur peut affronter un rob
 &nbsp;&nbsp;-&nbsp;&nbsp;Possibilité de quitter le jeu à tout moment.<br>
 <br>
 **<u>Comment exécuter le jeu<br></u>**
-&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Pierre-Feuille-Ciseaux.git<br>
+&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Paper-Scissors-Stone.git<br>
 &nbsp;&nbsp;&nbsp;python pierre_feuille_ciseaux.py<br>
 <br>
 <br>
@@ -25,5 +24,5 @@ A classic game of Rock, Paper, Scissors where a player can face either a robot o
 &nbsp;&nbsp;-&nbsp;&nbsp;Option to quit the game at any time.<br>
 <br>
 **<u>How to run the game<br></u>**
-&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Pierre-Feuille-Ciseaux.git<br>
+&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Paper-Scissors-Stone.git<br>
 &nbsp;&nbsp;&nbsp;python pierre_feuille_ciseaux.py<br>
