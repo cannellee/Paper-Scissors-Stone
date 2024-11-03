@@ -10,7 +10,7 @@ Un jeu classique de Pierre, Feuille, Ciseaux où un joueur peut affronter un rob
 &nbsp;&nbsp;-&nbsp;&nbsp;Possibilité de quitter le jeu à tout moment.<br>
 <br>
 **<u>Comment exécuter le jeu<br></u>**
-&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/PierreFeuilleCiseaux.git<br>
+&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Pierre-Feuille-Ciseaux.git<br>
 &nbsp;&nbsp;&nbsp;python pierre_feuille_ciseaux.py<br>
 <br>
 <br>
@@ -25,5 +25,5 @@ A classic game of Rock, Paper, Scissors where a player can face either a robot o
 &nbsp;&nbsp;-&nbsp;&nbsp;Option to quit the game at any time.<br>
 <br>
 **<u>How to run the game<br></u>**
-&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/PierreFeuilleCiseaux.git<br>
+&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Pierre-Feuille-Ciseaux.git<br>
 &nbsp;&nbsp;&nbsp;python pierre_feuille_ciseaux.py<br>
