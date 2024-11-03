@@ -16,7 +16,7 @@ Un jeu classique de Pierre, Feuille, Ciseaux où un joueur peut affronter un rob
 
 ## 🇬🇧 ~ English :<br>
 **<u>Description<br></u>**
-A classic game of Rock, Paper, Scissors where a player can face either a robot or another player. The objective is to win the most rounds by choosing one of the three options. The game continues until one of the players decides to quit by entering 'Q'.<br>
+A classic game of Rock, Paper, Scissors where a player can face either a robot or another player. The objective is to win the most rounds by choosing one of the three options. The game continues until one of the players decides to quit.<br>
 <br>
 **<u>Features<br></u>**
 &nbsp;&nbsp;-&nbsp;&nbsp;Play against a robot or another player.<br>
