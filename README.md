@@ -10,7 +10,7 @@ Le projet Pierre-Feuille-Ciseaux a été réalisé lorsque j'étais en classe de
 <br>
 **<u>Comment exécuter le jeu<br></u>**
 &nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Paper-Scissors-Stone.git<br>
-&nbsp;&nbsp;&nbsp;python pierre_feuille_ciseaux.py<br>
+&nbsp;&nbsp;&nbsp;python paper_scissors_stone.py<br>
 <br>
 <br>
 
@@ -25,4 +25,4 @@ The Paper-Scissors-Stone project was created when I was in high school. A classi
 <br>
 **<u>How to run the game<br></u>**
 &nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/Paper-Scissors-Stone.git<br>
-&nbsp;&nbsp;&nbsp;python pierre_feuille_ciseaux.py<br>
+&nbsp;&nbsp;&nbsp;python paper_scissors_stone.py<br>
