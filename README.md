@@ -1,7 +1,7 @@
 # Paper Scissors Stone
 ## 🇫🇷 ~ Français :<br>
 **<u>Description<br></u>**
-Un jeu classique de Pierre, Feuille, Ciseaux où un joueur peut affronter un robot ou un autre joueur. Le but du jeu est de remporter le plus de manches possible en choisissant l'une des trois options. Le jeu continue jusqu'à ce que l'un des joueurs décide de quitter en entrant 'Q'.<br>
+Un jeu classique de Pierre, Feuille, Ciseaux où un joueur peut affronter un robot ou un autre joueur. Le but du jeu est de remporter le plus de manches possible en choisissant l'une des trois options. Le jeu continue jusqu'à ce que l'un des joueurs décide de quitter.<br>
 <br>
 **<u>Fonctionnalités<br></u>**
 &nbsp;&nbsp;-&nbsp;&nbsp;Jouer contre un robot ou un autre joueur.<br>
